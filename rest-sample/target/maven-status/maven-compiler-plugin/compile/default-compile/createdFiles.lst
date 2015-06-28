@@ -1,0 +1,7 @@
+com\wiki\children\webservices\rest\QueryController.class
+com\wiki\children\repository\QueryRepository.class
+com\wiki\children\web\utils\DateSerializer.class
+com\wiki\children\services\QueryService.class
+com\wiki\children\dao\QueryDAO.class
+com\wiki\children\domain\Query.class
+com\wiki\children\dao\impl\QueryDAOImpl.class
